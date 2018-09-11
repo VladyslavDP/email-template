@@ -1,0 +1,31 @@
+{
+  "name": "my-email-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp-debug": "^4.0.0",
+    "gulp-i18n-pug": "^1.1.0",
+    "gulp-inline-css": "^3.3.0",
+    "gulp-mail": "^0.3.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-series": "^1.0.2",
+    "gulp-util": "^3.0.8",
+    "install": "^0.12.1",
+    "npm": "^6.2.0",
+    "pretty-hrtime": "^1.0.3",
+    "sudo": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

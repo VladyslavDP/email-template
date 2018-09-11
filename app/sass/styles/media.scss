@@ -1,0 +1,7 @@
+@import "../settings/mixins.scss";
+
+@media only screen and (min-width: $width) {
+  table {
+    border-collapse: collapse; // Пример
+  }
+}
